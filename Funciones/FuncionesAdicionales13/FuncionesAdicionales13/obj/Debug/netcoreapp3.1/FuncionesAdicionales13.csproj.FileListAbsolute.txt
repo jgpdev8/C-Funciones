@@ -1,0 +1,14 @@
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales13\FuncionesAdicionales13\bin\Debug\netcoreapp3.1\FuncionesAdicionales13.exe
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales13\FuncionesAdicionales13\bin\Debug\netcoreapp3.1\FuncionesAdicionales13.deps.json
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales13\FuncionesAdicionales13\bin\Debug\netcoreapp3.1\FuncionesAdicionales13.runtimeconfig.json
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales13\FuncionesAdicionales13\bin\Debug\netcoreapp3.1\FuncionesAdicionales13.runtimeconfig.dev.json
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales13\FuncionesAdicionales13\bin\Debug\netcoreapp3.1\FuncionesAdicionales13.dll
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales13\FuncionesAdicionales13\bin\Debug\netcoreapp3.1\FuncionesAdicionales13.pdb
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales13\FuncionesAdicionales13\obj\Debug\netcoreapp3.1\FuncionesAdicionales13.csproj.AssemblyReference.cache
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales13\FuncionesAdicionales13\obj\Debug\netcoreapp3.1\FuncionesAdicionales13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales13\FuncionesAdicionales13\obj\Debug\netcoreapp3.1\FuncionesAdicionales13.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales13\FuncionesAdicionales13\obj\Debug\netcoreapp3.1\FuncionesAdicionales13.AssemblyInfo.cs
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales13\FuncionesAdicionales13\obj\Debug\netcoreapp3.1\FuncionesAdicionales13.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales13\FuncionesAdicionales13\obj\Debug\netcoreapp3.1\FuncionesAdicionales13.dll
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales13\FuncionesAdicionales13\obj\Debug\netcoreapp3.1\FuncionesAdicionales13.pdb
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales13\FuncionesAdicionales13\obj\Debug\netcoreapp3.1\FuncionesAdicionales13.genruntimeconfig.cache

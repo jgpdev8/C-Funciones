@@ -1,0 +1,14 @@
+C:\Users\javie\source\repos\Funciones21\Funciones21\bin\Debug\netcoreapp3.1\Funciones21.exe
+C:\Users\javie\source\repos\Funciones21\Funciones21\bin\Debug\netcoreapp3.1\Funciones21.deps.json
+C:\Users\javie\source\repos\Funciones21\Funciones21\bin\Debug\netcoreapp3.1\Funciones21.runtimeconfig.json
+C:\Users\javie\source\repos\Funciones21\Funciones21\bin\Debug\netcoreapp3.1\Funciones21.runtimeconfig.dev.json
+C:\Users\javie\source\repos\Funciones21\Funciones21\bin\Debug\netcoreapp3.1\Funciones21.dll
+C:\Users\javie\source\repos\Funciones21\Funciones21\bin\Debug\netcoreapp3.1\Funciones21.pdb
+C:\Users\javie\source\repos\Funciones21\Funciones21\obj\Debug\netcoreapp3.1\Funciones21.csproj.AssemblyReference.cache
+C:\Users\javie\source\repos\Funciones21\Funciones21\obj\Debug\netcoreapp3.1\Funciones21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\source\repos\Funciones21\Funciones21\obj\Debug\netcoreapp3.1\Funciones21.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\Funciones21\Funciones21\obj\Debug\netcoreapp3.1\Funciones21.AssemblyInfo.cs
+C:\Users\javie\source\repos\Funciones21\Funciones21\obj\Debug\netcoreapp3.1\Funciones21.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\Funciones21\Funciones21\obj\Debug\netcoreapp3.1\Funciones21.dll
+C:\Users\javie\source\repos\Funciones21\Funciones21\obj\Debug\netcoreapp3.1\Funciones21.pdb
+C:\Users\javie\source\repos\Funciones21\Funciones21\obj\Debug\netcoreapp3.1\Funciones21.genruntimeconfig.cache

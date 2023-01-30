@@ -1,0 +1,14 @@
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales9\FuncionesAdicionales9\obj\Debug\netcoreapp3.1\FuncionesAdicionales9.csproj.AssemblyReference.cache
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales9\FuncionesAdicionales9\obj\Debug\netcoreapp3.1\FuncionesAdicionales9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales9\FuncionesAdicionales9\obj\Debug\netcoreapp3.1\FuncionesAdicionales9.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales9\FuncionesAdicionales9\obj\Debug\netcoreapp3.1\FuncionesAdicionales9.AssemblyInfo.cs
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales9\FuncionesAdicionales9\obj\Debug\netcoreapp3.1\FuncionesAdicionales9.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales9\FuncionesAdicionales9\bin\Debug\netcoreapp3.1\FuncionesAdicionales9.exe
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales9\FuncionesAdicionales9\bin\Debug\netcoreapp3.1\FuncionesAdicionales9.deps.json
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales9\FuncionesAdicionales9\bin\Debug\netcoreapp3.1\FuncionesAdicionales9.runtimeconfig.json
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales9\FuncionesAdicionales9\bin\Debug\netcoreapp3.1\FuncionesAdicionales9.runtimeconfig.dev.json
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales9\FuncionesAdicionales9\bin\Debug\netcoreapp3.1\FuncionesAdicionales9.dll
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales9\FuncionesAdicionales9\bin\Debug\netcoreapp3.1\FuncionesAdicionales9.pdb
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales9\FuncionesAdicionales9\obj\Debug\netcoreapp3.1\FuncionesAdicionales9.dll
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales9\FuncionesAdicionales9\obj\Debug\netcoreapp3.1\FuncionesAdicionales9.pdb
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales9\FuncionesAdicionales9\obj\Debug\netcoreapp3.1\FuncionesAdicionales9.genruntimeconfig.cache

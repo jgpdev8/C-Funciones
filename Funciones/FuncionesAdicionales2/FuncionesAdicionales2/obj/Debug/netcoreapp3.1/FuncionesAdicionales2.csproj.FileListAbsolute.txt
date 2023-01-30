@@ -1,0 +1,14 @@
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales2\FuncionesAdicionales2\bin\Debug\netcoreapp3.1\FuncionesAdicionales2.exe
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales2\FuncionesAdicionales2\bin\Debug\netcoreapp3.1\FuncionesAdicionales2.deps.json
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales2\FuncionesAdicionales2\bin\Debug\netcoreapp3.1\FuncionesAdicionales2.runtimeconfig.json
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales2\FuncionesAdicionales2\bin\Debug\netcoreapp3.1\FuncionesAdicionales2.runtimeconfig.dev.json
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales2\FuncionesAdicionales2\bin\Debug\netcoreapp3.1\FuncionesAdicionales2.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales2\FuncionesAdicionales2\bin\Debug\netcoreapp3.1\FuncionesAdicionales2.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales2\FuncionesAdicionales2\obj\Debug\netcoreapp3.1\FuncionesAdicionales2.csproj.AssemblyReference.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales2\FuncionesAdicionales2\obj\Debug\netcoreapp3.1\FuncionesAdicionales2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales2\FuncionesAdicionales2\obj\Debug\netcoreapp3.1\FuncionesAdicionales2.AssemblyInfoInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales2\FuncionesAdicionales2\obj\Debug\netcoreapp3.1\FuncionesAdicionales2.AssemblyInfo.cs
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales2\FuncionesAdicionales2\obj\Debug\netcoreapp3.1\FuncionesAdicionales2.csproj.CoreCompileInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales2\FuncionesAdicionales2\obj\Debug\netcoreapp3.1\FuncionesAdicionales2.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales2\FuncionesAdicionales2\obj\Debug\netcoreapp3.1\FuncionesAdicionales2.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales2\FuncionesAdicionales2\obj\Debug\netcoreapp3.1\FuncionesAdicionales2.genruntimeconfig.cache

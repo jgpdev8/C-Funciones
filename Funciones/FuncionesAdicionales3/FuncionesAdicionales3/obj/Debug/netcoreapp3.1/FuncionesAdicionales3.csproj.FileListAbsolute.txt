@@ -1,0 +1,14 @@
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales3\FuncionesAdicionales3\bin\Debug\netcoreapp3.1\FuncionesAdicionales3.exe
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales3\FuncionesAdicionales3\bin\Debug\netcoreapp3.1\FuncionesAdicionales3.deps.json
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales3\FuncionesAdicionales3\bin\Debug\netcoreapp3.1\FuncionesAdicionales3.runtimeconfig.json
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales3\FuncionesAdicionales3\bin\Debug\netcoreapp3.1\FuncionesAdicionales3.runtimeconfig.dev.json
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales3\FuncionesAdicionales3\bin\Debug\netcoreapp3.1\FuncionesAdicionales3.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales3\FuncionesAdicionales3\bin\Debug\netcoreapp3.1\FuncionesAdicionales3.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales3\FuncionesAdicionales3\obj\Debug\netcoreapp3.1\FuncionesAdicionales3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales3\FuncionesAdicionales3\obj\Debug\netcoreapp3.1\FuncionesAdicionales3.AssemblyInfoInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales3\FuncionesAdicionales3\obj\Debug\netcoreapp3.1\FuncionesAdicionales3.AssemblyInfo.cs
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales3\FuncionesAdicionales3\obj\Debug\netcoreapp3.1\FuncionesAdicionales3.csproj.CoreCompileInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales3\FuncionesAdicionales3\obj\Debug\netcoreapp3.1\FuncionesAdicionales3.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales3\FuncionesAdicionales3\obj\Debug\netcoreapp3.1\FuncionesAdicionales3.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales3\FuncionesAdicionales3\obj\Debug\netcoreapp3.1\FuncionesAdicionales3.genruntimeconfig.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales3\FuncionesAdicionales3\obj\Debug\netcoreapp3.1\FuncionesAdicionales3.csproj.AssemblyReference.cache

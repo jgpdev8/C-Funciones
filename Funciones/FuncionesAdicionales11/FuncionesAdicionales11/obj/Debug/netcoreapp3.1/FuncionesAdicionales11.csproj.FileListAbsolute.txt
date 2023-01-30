@@ -1,0 +1,14 @@
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales11\FuncionesAdicionales11\bin\Debug\netcoreapp3.1\FuncionesAdicionales11.exe
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales11\FuncionesAdicionales11\bin\Debug\netcoreapp3.1\FuncionesAdicionales11.deps.json
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales11\FuncionesAdicionales11\bin\Debug\netcoreapp3.1\FuncionesAdicionales11.runtimeconfig.json
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales11\FuncionesAdicionales11\bin\Debug\netcoreapp3.1\FuncionesAdicionales11.runtimeconfig.dev.json
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales11\FuncionesAdicionales11\bin\Debug\netcoreapp3.1\FuncionesAdicionales11.dll
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales11\FuncionesAdicionales11\bin\Debug\netcoreapp3.1\FuncionesAdicionales11.pdb
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales11\FuncionesAdicionales11\obj\Debug\netcoreapp3.1\FuncionesAdicionales11.csproj.AssemblyReference.cache
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales11\FuncionesAdicionales11\obj\Debug\netcoreapp3.1\FuncionesAdicionales11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales11\FuncionesAdicionales11\obj\Debug\netcoreapp3.1\FuncionesAdicionales11.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales11\FuncionesAdicionales11\obj\Debug\netcoreapp3.1\FuncionesAdicionales11.AssemblyInfo.cs
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales11\FuncionesAdicionales11\obj\Debug\netcoreapp3.1\FuncionesAdicionales11.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales11\FuncionesAdicionales11\obj\Debug\netcoreapp3.1\FuncionesAdicionales11.dll
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales11\FuncionesAdicionales11\obj\Debug\netcoreapp3.1\FuncionesAdicionales11.pdb
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales11\FuncionesAdicionales11\obj\Debug\netcoreapp3.1\FuncionesAdicionales11.genruntimeconfig.cache

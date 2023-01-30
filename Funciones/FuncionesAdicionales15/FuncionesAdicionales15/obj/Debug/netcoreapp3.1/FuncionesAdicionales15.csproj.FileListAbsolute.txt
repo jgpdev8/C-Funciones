@@ -1,0 +1,13 @@
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales15\FuncionesAdicionales15\bin\Debug\netcoreapp3.1\FuncionesAdicionales15.exe
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales15\FuncionesAdicionales15\bin\Debug\netcoreapp3.1\FuncionesAdicionales15.deps.json
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales15\FuncionesAdicionales15\bin\Debug\netcoreapp3.1\FuncionesAdicionales15.runtimeconfig.json
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales15\FuncionesAdicionales15\bin\Debug\netcoreapp3.1\FuncionesAdicionales15.runtimeconfig.dev.json
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales15\FuncionesAdicionales15\bin\Debug\netcoreapp3.1\FuncionesAdicionales15.dll
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales15\FuncionesAdicionales15\bin\Debug\netcoreapp3.1\FuncionesAdicionales15.pdb
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales15\FuncionesAdicionales15\obj\Debug\netcoreapp3.1\FuncionesAdicionales15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales15\FuncionesAdicionales15\obj\Debug\netcoreapp3.1\FuncionesAdicionales15.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales15\FuncionesAdicionales15\obj\Debug\netcoreapp3.1\FuncionesAdicionales15.AssemblyInfo.cs
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales15\FuncionesAdicionales15\obj\Debug\netcoreapp3.1\FuncionesAdicionales15.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales15\FuncionesAdicionales15\obj\Debug\netcoreapp3.1\FuncionesAdicionales15.dll
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales15\FuncionesAdicionales15\obj\Debug\netcoreapp3.1\FuncionesAdicionales15.pdb
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales15\FuncionesAdicionales15\obj\Debug\netcoreapp3.1\FuncionesAdicionales15.genruntimeconfig.cache

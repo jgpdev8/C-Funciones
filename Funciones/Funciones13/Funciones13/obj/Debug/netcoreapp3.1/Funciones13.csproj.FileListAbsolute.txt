@@ -1,0 +1,14 @@
+C:\Users\Milzo\source\repos\Funciones13\Funciones13\bin\Debug\netcoreapp3.1\Funciones13.exe
+C:\Users\Milzo\source\repos\Funciones13\Funciones13\bin\Debug\netcoreapp3.1\Funciones13.deps.json
+C:\Users\Milzo\source\repos\Funciones13\Funciones13\bin\Debug\netcoreapp3.1\Funciones13.runtimeconfig.json
+C:\Users\Milzo\source\repos\Funciones13\Funciones13\bin\Debug\netcoreapp3.1\Funciones13.runtimeconfig.dev.json
+C:\Users\Milzo\source\repos\Funciones13\Funciones13\bin\Debug\netcoreapp3.1\Funciones13.dll
+C:\Users\Milzo\source\repos\Funciones13\Funciones13\bin\Debug\netcoreapp3.1\Funciones13.pdb
+C:\Users\Milzo\source\repos\Funciones13\Funciones13\obj\Debug\netcoreapp3.1\Funciones13.csproj.AssemblyReference.cache
+C:\Users\Milzo\source\repos\Funciones13\Funciones13\obj\Debug\netcoreapp3.1\Funciones13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milzo\source\repos\Funciones13\Funciones13\obj\Debug\netcoreapp3.1\Funciones13.AssemblyInfoInputs.cache
+C:\Users\Milzo\source\repos\Funciones13\Funciones13\obj\Debug\netcoreapp3.1\Funciones13.AssemblyInfo.cs
+C:\Users\Milzo\source\repos\Funciones13\Funciones13\obj\Debug\netcoreapp3.1\Funciones13.csproj.CoreCompileInputs.cache
+C:\Users\Milzo\source\repos\Funciones13\Funciones13\obj\Debug\netcoreapp3.1\Funciones13.dll
+C:\Users\Milzo\source\repos\Funciones13\Funciones13\obj\Debug\netcoreapp3.1\Funciones13.pdb
+C:\Users\Milzo\source\repos\Funciones13\Funciones13\obj\Debug\netcoreapp3.1\Funciones13.genruntimeconfig.cache

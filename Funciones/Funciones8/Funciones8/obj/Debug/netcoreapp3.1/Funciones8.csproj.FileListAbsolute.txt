@@ -1,0 +1,13 @@
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones8\Funciones8\bin\Debug\netcoreapp3.1\Funciones8.exe
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones8\Funciones8\bin\Debug\netcoreapp3.1\Funciones8.deps.json
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones8\Funciones8\bin\Debug\netcoreapp3.1\Funciones8.runtimeconfig.json
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones8\Funciones8\bin\Debug\netcoreapp3.1\Funciones8.runtimeconfig.dev.json
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones8\Funciones8\bin\Debug\netcoreapp3.1\Funciones8.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones8\Funciones8\bin\Debug\netcoreapp3.1\Funciones8.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones8\Funciones8\obj\Debug\netcoreapp3.1\Funciones8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones8\Funciones8\obj\Debug\netcoreapp3.1\Funciones8.AssemblyInfoInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones8\Funciones8\obj\Debug\netcoreapp3.1\Funciones8.AssemblyInfo.cs
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones8\Funciones8\obj\Debug\netcoreapp3.1\Funciones8.csproj.CoreCompileInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones8\Funciones8\obj\Debug\netcoreapp3.1\Funciones8.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones8\Funciones8\obj\Debug\netcoreapp3.1\Funciones8.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones8\Funciones8\obj\Debug\netcoreapp3.1\Funciones8.genruntimeconfig.cache

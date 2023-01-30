@@ -1,0 +1,13 @@
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales4\FuncionesAdicionales4\bin\Debug\netcoreapp3.1\FuncionesAdicionales4.exe
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales4\FuncionesAdicionales4\bin\Debug\netcoreapp3.1\FuncionesAdicionales4.deps.json
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales4\FuncionesAdicionales4\bin\Debug\netcoreapp3.1\FuncionesAdicionales4.runtimeconfig.json
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales4\FuncionesAdicionales4\bin\Debug\netcoreapp3.1\FuncionesAdicionales4.runtimeconfig.dev.json
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales4\FuncionesAdicionales4\bin\Debug\netcoreapp3.1\FuncionesAdicionales4.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales4\FuncionesAdicionales4\bin\Debug\netcoreapp3.1\FuncionesAdicionales4.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales4\FuncionesAdicionales4\obj\Debug\netcoreapp3.1\FuncionesAdicionales4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales4\FuncionesAdicionales4\obj\Debug\netcoreapp3.1\FuncionesAdicionales4.AssemblyInfoInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales4\FuncionesAdicionales4\obj\Debug\netcoreapp3.1\FuncionesAdicionales4.AssemblyInfo.cs
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales4\FuncionesAdicionales4\obj\Debug\netcoreapp3.1\FuncionesAdicionales4.csproj.CoreCompileInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales4\FuncionesAdicionales4\obj\Debug\netcoreapp3.1\FuncionesAdicionales4.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales4\FuncionesAdicionales4\obj\Debug\netcoreapp3.1\FuncionesAdicionales4.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\FuncionesAdicionales4\FuncionesAdicionales4\obj\Debug\netcoreapp3.1\FuncionesAdicionales4.genruntimeconfig.cache

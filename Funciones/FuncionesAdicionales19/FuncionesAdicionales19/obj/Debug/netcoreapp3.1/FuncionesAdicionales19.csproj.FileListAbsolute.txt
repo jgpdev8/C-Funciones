@@ -1,0 +1,14 @@
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales19\FuncionesAdicionales19\bin\Debug\netcoreapp3.1\FuncionesAdicionales19.exe
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales19\FuncionesAdicionales19\bin\Debug\netcoreapp3.1\FuncionesAdicionales19.deps.json
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales19\FuncionesAdicionales19\bin\Debug\netcoreapp3.1\FuncionesAdicionales19.runtimeconfig.json
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales19\FuncionesAdicionales19\bin\Debug\netcoreapp3.1\FuncionesAdicionales19.runtimeconfig.dev.json
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales19\FuncionesAdicionales19\bin\Debug\netcoreapp3.1\FuncionesAdicionales19.dll
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales19\FuncionesAdicionales19\bin\Debug\netcoreapp3.1\FuncionesAdicionales19.pdb
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales19\FuncionesAdicionales19\obj\Debug\netcoreapp3.1\FuncionesAdicionales19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales19\FuncionesAdicionales19\obj\Debug\netcoreapp3.1\FuncionesAdicionales19.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales19\FuncionesAdicionales19\obj\Debug\netcoreapp3.1\FuncionesAdicionales19.AssemblyInfo.cs
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales19\FuncionesAdicionales19\obj\Debug\netcoreapp3.1\FuncionesAdicionales19.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales19\FuncionesAdicionales19\obj\Debug\netcoreapp3.1\FuncionesAdicionales19.dll
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales19\FuncionesAdicionales19\obj\Debug\netcoreapp3.1\FuncionesAdicionales19.pdb
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales19\FuncionesAdicionales19\obj\Debug\netcoreapp3.1\FuncionesAdicionales19.genruntimeconfig.cache
+C:\Users\javie\Desktop\DAW\Programación\Funciones\FuncionesAdicionales19\FuncionesAdicionales19\obj\Debug\netcoreapp3.1\FuncionesAdicionales19.csproj.AssemblyReference.cache

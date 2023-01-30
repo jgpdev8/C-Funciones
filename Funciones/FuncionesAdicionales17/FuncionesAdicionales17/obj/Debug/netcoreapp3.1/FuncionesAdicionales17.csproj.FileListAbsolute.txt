@@ -1,0 +1,13 @@
+C:\Users\javie\source\repos\FuncionesAdicionales17\FuncionesAdicionales17\bin\Debug\netcoreapp3.1\FuncionesAdicionales17.exe
+C:\Users\javie\source\repos\FuncionesAdicionales17\FuncionesAdicionales17\bin\Debug\netcoreapp3.1\FuncionesAdicionales17.deps.json
+C:\Users\javie\source\repos\FuncionesAdicionales17\FuncionesAdicionales17\bin\Debug\netcoreapp3.1\FuncionesAdicionales17.runtimeconfig.json
+C:\Users\javie\source\repos\FuncionesAdicionales17\FuncionesAdicionales17\bin\Debug\netcoreapp3.1\FuncionesAdicionales17.runtimeconfig.dev.json
+C:\Users\javie\source\repos\FuncionesAdicionales17\FuncionesAdicionales17\bin\Debug\netcoreapp3.1\FuncionesAdicionales17.dll
+C:\Users\javie\source\repos\FuncionesAdicionales17\FuncionesAdicionales17\bin\Debug\netcoreapp3.1\FuncionesAdicionales17.pdb
+C:\Users\javie\source\repos\FuncionesAdicionales17\FuncionesAdicionales17\obj\Debug\netcoreapp3.1\FuncionesAdicionales17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\source\repos\FuncionesAdicionales17\FuncionesAdicionales17\obj\Debug\netcoreapp3.1\FuncionesAdicionales17.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\FuncionesAdicionales17\FuncionesAdicionales17\obj\Debug\netcoreapp3.1\FuncionesAdicionales17.AssemblyInfo.cs
+C:\Users\javie\source\repos\FuncionesAdicionales17\FuncionesAdicionales17\obj\Debug\netcoreapp3.1\FuncionesAdicionales17.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\FuncionesAdicionales17\FuncionesAdicionales17\obj\Debug\netcoreapp3.1\FuncionesAdicionales17.dll
+C:\Users\javie\source\repos\FuncionesAdicionales17\FuncionesAdicionales17\obj\Debug\netcoreapp3.1\FuncionesAdicionales17.pdb
+C:\Users\javie\source\repos\FuncionesAdicionales17\FuncionesAdicionales17\obj\Debug\netcoreapp3.1\FuncionesAdicionales17.genruntimeconfig.cache

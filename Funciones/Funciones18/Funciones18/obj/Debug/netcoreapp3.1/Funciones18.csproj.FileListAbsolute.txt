@@ -1,0 +1,13 @@
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones18\Funciones18\bin\Debug\netcoreapp3.1\Funciones18.exe
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones18\Funciones18\bin\Debug\netcoreapp3.1\Funciones18.deps.json
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones18\Funciones18\bin\Debug\netcoreapp3.1\Funciones18.runtimeconfig.json
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones18\Funciones18\bin\Debug\netcoreapp3.1\Funciones18.runtimeconfig.dev.json
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones18\Funciones18\bin\Debug\netcoreapp3.1\Funciones18.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones18\Funciones18\bin\Debug\netcoreapp3.1\Funciones18.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones18\Funciones18\obj\Debug\netcoreapp3.1\Funciones18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones18\Funciones18\obj\Debug\netcoreapp3.1\Funciones18.AssemblyInfoInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones18\Funciones18\obj\Debug\netcoreapp3.1\Funciones18.AssemblyInfo.cs
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones18\Funciones18\obj\Debug\netcoreapp3.1\Funciones18.csproj.CoreCompileInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones18\Funciones18\obj\Debug\netcoreapp3.1\Funciones18.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones18\Funciones18\obj\Debug\netcoreapp3.1\Funciones18.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Funciones\Funciones18\Funciones18\obj\Debug\netcoreapp3.1\Funciones18.genruntimeconfig.cache
